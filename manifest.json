@@ -1,0 +1,71 @@
+{
+    "name": "Stardust Orchid",
+    "description": "Who we are, a broken star... These very special orchids grow in celestial embrace of love, made of pure stardust.",
+    "version": "1.0",
+    "developer": { "name": "Ceterai" },
+    "icons": { "512": "icon.png", "1024": "icon_big.png" },
+    "manifest_version": 3,
+    "mod":
+    {
+        "license": "license.md",
+        "payload":
+        {
+            "page_styles":
+            [
+                {
+                    "css": [ "webmodding/opera.css" ],
+                    "matches": [ "https://*.opera.com/*" ]
+                }
+            ],
+            "theme":
+            {
+                "dark":
+                {
+                    "gx_accent":
+                    {
+                        "h": 212,
+                        "s": 87,
+                        "l": 51
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 253,
+                        "s": 100,
+                        "l": 10
+                    }
+                },
+                "light":
+                {
+                    "gx_accent":
+                    {
+                        "h": 212,
+                        "s": 87,
+                        "l": 51
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 230,
+                        "s": 10,
+                        "l": 88
+                    }
+                }
+            },
+            "wallpaper":
+            {
+                "dark":
+                {   
+                    "image": "wallpaper/dark.jpg",
+                    "text_color": "#d8dcf0",
+                    "text_shadow": "#383c50"
+                },
+                "light":
+                {
+                    "image": "wallpaper/light.jpg",
+                    "text_color": "#383c50",
+                    "text_shadow": "#101428"
+                }
+            }
+        },
+        "schema_version": 1
+    }
+}
