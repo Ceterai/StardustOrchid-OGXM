@@ -14,8 +14,8 @@ Click the **Install** button on the [Opera GX Mods page](https://store.gx.me/mod
 
 Original Artwork:
 
-- Dark Wallpaper & Icons: [**Stardust Moonbeam** | DeviantArt](https://www.deviantart.com/ceterai/art/Stardust-Moonbeam-960010662)
-- Light Wallpaper: [**Stardust Daydream** | DeviantArt](https://www.deviantart.com/ceterai/art/Stardust-Daydream-960010657)
+- Dark Wallpaper & Icons: [**Stardust Moonbeam** - DeviantArt](https://www.deviantart.com/ceterai/art/Stardust-Moonbeam-960010662)
+- Light Wallpaper: [**Stardust Daydream** - DeviantArt](https://www.deviantart.com/ceterai/art/Stardust-Daydream-960010657)
 
 The mod is inspired by a Starbound mod I made called ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png) **[My Enternia](https://ceterai.github.io/MyEnternia/)**.
 
@@ -28,5 +28,5 @@ The mod is inspired by a Starbound mod I made called ![ ](https://raw.githubuser
 ---
 
 <p align="center">
-  <img src="icon.png" />
+  <img src="https://raw.githubusercontent.com/Ceterai/StardustOrchid-OGXM/refs/heads/main/icon.png" />
 </p>
