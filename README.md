@@ -21,7 +21,7 @@ The mod is inspired by a Starbound mod I made called ![ ](https://raw.githubuser
 
 ## Showcase
 
-<img src="https://raw.githubusercontent.com/Ceterai/StardustOrchid-OGXM/refs/heads/main/.meta/showcase.png" alt="Theme Showcase Image 1" width="100%">
+<img src="https://raw.githubusercontent.com/Ceterai/StardustOrchid-OGXM/refs/heads/main/.meta/showcase.jpg" alt="Theme Showcase Image 1" width="100%">
 <img src="https://raw.githubusercontent.com/Ceterai/StardustOrchid-OGXM/refs/heads/main/.meta/showcase_dark.jpg" alt="Theme Showcase Image 2" width="100%">
 <img src="https://raw.githubusercontent.com/Ceterai/StardustOrchid-OGXM/refs/heads/main/.meta/showcase_light.jpg" alt="Theme Showcase Image 3" width="100%">
 
