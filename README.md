@@ -17,16 +17,16 @@ Original Artwork:
 - Dark Wallpaper & Icons: [**Stardust Moonbeam** - DeviantArt](https://www.deviantart.com/ceterai/art/Stardust-Moonbeam-960010662)
 - Light Wallpaper: [**Stardust Daydream** - DeviantArt](https://www.deviantart.com/ceterai/art/Stardust-Daydream-960010657)
 
-The mod is inspired by a Starbound mod I made called ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png) **[My Enternia](https://ceterai.github.io/MyEnternia/)**.
+The mod is inspired by a Starbound mod I made called ![Ceterai's](https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png) **[My Enternia](https://ceterai.github.io/MyEnternia/)**.
 
 ## Showcase
 
-<img src="https://raw.githubusercontent.com/Ceterai/StardustOrchid-OGXM/refs/heads/main/.meta/showcase.jpg" alt="Theme Showcase Image 1" width="100%">
-<img src="https://raw.githubusercontent.com/Ceterai/StardustOrchid-OGXM/refs/heads/main/.meta/showcase_dark.jpg" alt="Theme Showcase Image 2" width="100%">
-<img src="https://raw.githubusercontent.com/Ceterai/StardustOrchid-OGXM/refs/heads/main/.meta/showcase_light.jpg" alt="Theme Showcase Image 3" width="100%">
+<img src="https://raw.githubusercontent.com/Ceterai/StardustOrchid-OGXM/refs/heads/main/.meta/showcase.jpg" loading="lazy" alt="Theme Showcase Image 1" width="100%">
+<img src="https://raw.githubusercontent.com/Ceterai/StardustOrchid-OGXM/refs/heads/main/.meta/showcase_dark.jpg" loading="lazy" alt="Theme Showcase Image 2" width="100%">
+<img src="https://raw.githubusercontent.com/Ceterai/StardustOrchid-OGXM/refs/heads/main/.meta/showcase_light.jpg" loading="lazy" alt="Theme Showcase Image 3" width="100%">
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ceterai/StardustOrchid-OGXM/refs/heads/main/icon.png" />
+  <img src="https://raw.githubusercontent.com/Ceterai/StardustOrchid-OGXM/refs/heads/main/icon.png" loading="lazy" alt="Enjoy!"/>
 </p>
